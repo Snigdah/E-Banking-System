@@ -60,7 +60,7 @@ This project is an eBanking system designed to manage multiple vendors and emplo
    mvn spring-boot:run
    ```
 
-5. **Access the swagger documentation** for interacting with the APIs (if configured with swagger).
+### API Documentation https://documenter.getpostman.com/view/29269212/2sAYdmkTL7
 
 ## API Endpoints
 
