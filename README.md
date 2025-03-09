@@ -99,10 +99,6 @@ This project is an eBanking system designed to manage multiple vendors and emplo
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the coding standards and includes necessary tests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 For any questions or issues regarding this project, please open an issue or contact the project maintainer.
